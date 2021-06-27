@@ -2,7 +2,6 @@ body{
   margin: 0;
   text-align: center;
   font-family: 'Source Serif Pro', serif;
-  font-size: 25px;
 }
 
 span{
@@ -11,7 +10,11 @@ span{
 
 h1{
   font-family: 'Parisienne', cursive;
-  font-size: 400%;
+  font-size: 6.25em;
+}
+
+p{
+  font-size: 1.563em;
 }
 
 .top-container{
