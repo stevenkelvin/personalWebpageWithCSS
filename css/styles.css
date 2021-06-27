@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 25px;
+}
+
+span{
+  text-decoration: underline;
+}
+
+h1{
+  font-family: 'Parisienne', cursive;
+  font-size: 400%;
+}
+
+.top-container{
+  background-color: #DEEDF0;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+  margin-top: 20px;
+}
+
+.bottom-container{
+}
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 70px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
